@@ -7,9 +7,9 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | ΕΙΣΑΓΩΓΗ |
-| 2 | [Άσκηση προγραμματισμού BUTTON CONSEPT](https://github.com/GVR8/hci/blob/master/projects/2019026/README.md#παραδοτεο-2#dinpanel) |
-| 3 | [Άσκηση γραμμής εντολών](https://github.com/GVR8/hci/blob/master/projects/2019026/README.md#παραδοτεο-3#dipanel) |
-| 4 | [Άσκηση προγραμματισμού Menu Pie]() |
+| 2 | [Άσκηση προγραμματισμού BUTTON CONSEPT](https://codepen.io/2019026/pen/QWENVLm#dinpanel#dinpanel) |
+| 3 | Άσκηση γραμμής εντολών |
+| 4 | [Άσκηση προγραμματισμού Menu Pie](https://codepen.io/2019026/pen/LYZmjEd#dipanel#dipanel) |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
